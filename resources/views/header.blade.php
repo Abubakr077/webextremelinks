@@ -74,7 +74,7 @@
                         <li><a href="/backlinking">Home Page Backlinks</a></li>
                     </ul>
                 </li>
-                <li><a href="/site">Sites</a></li>
+                <li><a href="/sites">Sites</a></li>
 
                 <li><a href="/contact">Contact</a></li>
             </ul>

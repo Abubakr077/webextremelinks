@@ -29,10 +29,6 @@ Route::get('linkInsert', function () {
 Route::get('backlinking', function () {
     return view('backlinking');
 });
-//Sites
-Route::get('site', function () {
-    return view('site');
-});
 
 //ContactUs
 Route::get('contact', function () {
@@ -80,5 +76,21 @@ Route::get('deliverypolicy', function () {
     return view('deliverypolicy');
 });
 
-Route::get('/import', 
-    [App\Http\Controllers\ExcelImportController::class, 'import']);
+Route::get('admin', function () {
+    return view('admin');
+});
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+
+Route::resource('sites', App\Http\Controllers\SiteController::class);
