@@ -1,5 +1,7 @@
 <head>
-    <title> webextremelinks.com</title>
+    <title> Web Extreme Links | Guest Posting & Link Building Agency</title>
+    <meta name="description"
+        content="Your premier Guest Posting & Link Building Agency. Boost your site's visibility and authority with our strategic digital marketing solutions">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content>
@@ -26,7 +28,7 @@
 
 
     <script type="text/javascript">
-        (function () {
+        (function() {
             var options = {
                 whatsapp: "+8801826574180",
                 // WhatsApp number
@@ -42,7 +44,7 @@
             s.type = 'text/javascript';
             s.async = true;
             s.src = url + '/widget-send-button/js/init.js';
-            s.onload = function () {
+            s.onload = function() {
                 WhWidgetSendButton.init(host, proto, options);
             };
             var x = document.getElementsByTagName('script')[0];
@@ -55,7 +57,7 @@
     <div class="container">
 
         <a class="navbar-brand site-logo " href="/">
-            <img alt="logo" id="navbar-img" src="{{asset('/image/121.png')}}" />
+            <img alt="logo" id="navbar-img" src="{{ asset('/image/121.png') }}" />
         </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

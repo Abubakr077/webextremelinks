@@ -742,7 +742,8 @@ site-heading2 h2 {
 }
 
 .site-logo img {
-    max-width: 265px
+    max-width: 265px;
+    transform: scale(1.3);
 }
 
 .promo_area:after {
