@@ -21,8 +21,8 @@
 <div class="col-lg-4 col-md-4">
 <div class="single-footer">
 <div class="footer-logo">
-<a class="site-logo " href="/start">
-<img alt="logo" class="lazyload" src="{{asset('image/121.png')}}" />
+<a class="site-logof " href="/start">
+<img alt="logo" class="lazyload" src="{{asset('image/webex.png')}}" />
 </a>
 </div>
 <p>
@@ -44,10 +44,10 @@ help increase search engine rankings and get more traffic.
 <h3>Quick Links</h3>
 <div class="single-footer">
 <ul>
-<li><a href="/privacy">Privacy Policy</a></li>
-<li><a href="/termsofservices">Terms of Service</a></li>
-<li><a href="/refundpolicy">Refund Policy</a></li>
-<li><a href="/deliverypolicy">Delivery Policy</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/terms-of-services">Terms of Service</a></li>
+<li><a href="/refund-policy">Refund Policy</a></li>
+<li><a href="/delivery-policy">Delivery Policy</a></li>
 <li><a href="/contact">Contact Us</a></li>
 </ul>
 </div>

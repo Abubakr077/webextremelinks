@@ -195,7 +195,7 @@ If you’re Looking to Purchase Guest Posting Services, Web Extreme Links Offers
 <div class="row">
 <div class="col-md-12">
 <div class="site-heading">
-<h2>We <span>assist</span> in</h2>
+<h2>We are <span>assists</span> in</h2>
 </div>
 </div>
 </div>
@@ -327,7 +327,7 @@ If you’re Looking to Purchase Guest Posting Services, Web Extreme Links Offers
 What Is Guest Posting In Off-Page SEO?
 </a>
 </div>
-<div id="collapseEight" class="collapse show" aria-labelledby="headingEight" data-parent="#accordionExample">
+<div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
 <div class="faq_accordian_body">
 <p>Off-Page SEO means anything finished outside of your site to get potential effects of your site on Search Engine positions. Guest posting is helpful, and it helps you in numerous ways. Firstly, guest posting helps in Off-Page SEO to bring new audiences and engross and boost brand searches on Google. But backlinks are most potent, and you have to create backlinks from your guest posts.</p>
 </div>

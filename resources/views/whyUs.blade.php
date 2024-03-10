@@ -25,15 +25,15 @@
 </button>
 <div class="navbar-collapse collapse mainmenu" id="navbarCollapse" style>
 <ul class="navbar-nav ml-auto  ">
-<li><a href="#whyUs" data-target="#whyUs">Why Us</a></li>
-<li><a href="#reviews" data-target="#reviews">Reviews</a></li>
-<li><a href="#faqs" data-target="#faq">FAQ</a></li>
+<li><a href="/#whyUs" data-target="#whyUs">Why Us</a></li>
+<li><a href="/#reviews" data-target="#reviews">Reviews</a></li>
+<li><a href="/#faqs" data-target="#faqs">FAQ</a></li>
 <li>
 <a href="javascript:;">Packages</a>
 <ul>
-<li> <a href="/guestPosting">Guest Posting</a></li>
-<li><a href="/linkInsert">Link Insert</a></li>
-<li><a href="/backlinking">Home Page Backlinks</a></li>
+<li> <a href="/guest-posting">Guest Posting</a></li>
+<li><a href="/link-insert">Link Insert</a></li>
+<li><a href="/home-page-backlinks">Home Page Backlinks</a></li>
 </ul>
 </li>
 <li><a href="/sites">Sites</a></li>

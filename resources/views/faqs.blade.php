@@ -329,7 +329,7 @@ specialists verified websites for getting</p>
 <div class="accordion" id="accordionExample">
 <div class="single_faq_accordian ">
 <div class="faq_accordian_header">
-<a href="#" class="collapsed" id="headingEight" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+<a href="#" class="collapsed" id="headingEight" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
 What Is Guest Posting In Off-Page SEO?
 </a>
 </div>

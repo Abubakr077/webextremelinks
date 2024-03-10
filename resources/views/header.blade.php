@@ -55,9 +55,9 @@
 </head>
 <nav class="header_area navbar navbar-expand-lg">
     <div class="container">
-
+``
         <a class="navbar-brand site-logo " href="/">
-            <img alt="logo" id="navbar-img" src="{{ asset('/image/121.png') }}" />
+            <img alt="logo" id="navbar-img" src="{{asset('/image/webex.png')}}"  />
         </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,15 +65,15 @@
         </button>
         <div class="navbar-collapse collapse mainmenu" id="navbarCollapse" style>
             <ul class="navbar-nav ml-auto  ">
-                <li><a href="/start#whyUs" data-target="#whyUs">Why Us</a></li>
-                <li><a href="/reviews#reviews" data-target="#reviews">Reviews</a></li>
-                <li><a href="/faq#faqs" data-target="#faq">FAQ</a></li>
+                <li><a href="/#whyUs" data-target="#whyUs">Why Us</a></li>
+                <li><a href="/#reviews" data-target="#reviews">Reviews</a></li>
+                <li><a href="/#faqs" data-target="#faq">FAQ</a></li>
                 <li>
                     <a href="javascript:;">Packages</a>
                     <ul>
-                        <li><a href="/guestPosting">Guest Posting</a></li>
-                        <li><a href="/linkInsert">Link Insert</a></li>
-                        <li><a href="/backlinking">Home Page Backlinks</a></li>
+                        <li><a href="/guest-posting">Guest Posting</a></li>
+                        <li><a href="/link-insert">Link Insert</a></li>
+                        <li><a href="/home-page-backlinks">Home Page Backlinks</a></li>
                     </ul>
                 </li>
                 <li><a href="/sites">Sites</a></li>

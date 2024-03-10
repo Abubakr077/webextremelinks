@@ -18,16 +18,16 @@ Route::get('/', function () {
 });
 
 //guestPosting
-Route::get('guestPosting', function () {
-    return view('guestPosting');
+Route::get('guest-posting', function () {
+    return view('guest-posting');
 });
 //linkInsert
-Route::get('linkInsert', function () {
-    return view('linkInsert');
+Route::get('link-insert', function () {
+    return view('link-insert');
 });
 //backLinking
-Route::get('backlinking', function () {
-    return view('backlinking');
+Route::get('home-page-backlinks', function () {
+    return view('home-page-backlinks');
 });
 
 //ContactUs
@@ -51,29 +51,29 @@ Route::get('start', function () {
 
 
 //faq
-Route::get('faq', function () {
-    return view('faq');
+Route::get('faqs', function () {
+    return view('faqs');
 });
 
 //privacy policy
-Route::get('privacy', function () {
-    return view('privacy');
+Route::get('privacy-policy', function () {
+    return view('privacy-policy');
 });
 
 //TermsOfServices
-Route::get('termsofservices', function () {
-    return view('termsofservices');
+Route::get('terms-of-services', function () {
+    return view('terms-of-services');
 });
 
 //RefundPolicy
-Route::get('refundpolicy', function () {
-    return view('refundpolicy');
+Route::get('refund-policy', function () {
+    return view('refund-policy');
 });
 
 //delivery POlicy
 
-Route::get('deliverypolicy', function () {
-    return view('deliverypolicy');
+Route::get('delivery-policy', function () {
+    return view('delivery-policy');
 });
 
 Route::get('admin', function () {
